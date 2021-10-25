@@ -1,0 +1,166 @@
+.header_bg {
+    height: 100px;
+    background-color: #007878;
+    position: sticky;
+    top: 0;
+     z-index: 100;
+}
+
+.header_top{
+    display: flex;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.header_logo{
+    width: 150px;
+    object-fit: contain;
+    margin: 0 20px;
+}
+
+.header_search{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 24px;
+}
+
+.header_searchInput{
+    height: 48px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+
+.header_searchText{
+    background-color: #009f9f;
+    height: 48px !important;
+    width: 100px !important;
+    padding: 2px;
+    color: aliceblue;
+    font-size: 18px;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_searchIcon{
+    display: none !important;
+    background-color: #009f9f;
+    height: 48px !important;
+    width: 60px !important;
+    padding: 2px;
+    color: aliceblue;  
+}
+
+.header_nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header_option{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px 20px;
+    color: #fff;
+    background-color: #009f9f;
+}
+
+.header_optionOne{
+    font-size: 14px;
+}
+
+.header_optionBasket{
+    margin-right: 2px;
+}
+
+
+/* header main nav */
+.header_mainNav{
+    background-color: #009f9f;
+    padding: 10px 0px;
+    display: none;
+}
+
+.header_main .container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header_main a{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 500;
+    color: #fff;
+    margin-left: 11px;
+    transition: all linear.4s;
+}
+
+.header_main a:hover{
+    color: #003a3a;
+}
+
+/* off canvas */
+
+.header_offCanvas{
+    display: block;
+}
+
+.menu-offcanvas{
+    width: 13% !important;
+}
+
+.offcanvas{
+    background-color: #009f9f !important;
+}
+
+.menu-offcanvas .container-fluid{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.navbar-light .navbar-toggler {
+    color: transparent !important;
+    border: transparent !important;
+    padding: 13px 8px;
+    margin-top: -7px;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url('/src/img/3dot.svg') !important;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 2.5em !important;
+    height: 42px !important;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.btn-close {
+    background: transparent url('/src/img/Multiply.svg') center/1em auto no-repeat !important;
+    opacity: 1 !important;
+
+   
+}
+
+.menu-offcanvas .nav-item {
+    border-bottom: 1px solid #ffffff;
+}
+
+.menu-offcanvas .nav-item a {
+    color: white !important;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all linear.4s;
+}
+.menu-offcanvas .nav-item a:hover {
+    color: #1a1a1a !important;
+}

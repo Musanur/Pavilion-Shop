@@ -1,0 +1,382 @@
+
+.card_area{
+    width: 100%;
+    padding: 10px;
+}
+.card-area{
+    background-color: #fff;
+    padding: 20px;
+    transition: all linear.2s;
+    height: 385px;
+    border-radius: 6px;
+
+}
+
+.card-area:hover{
+    box-shadow: 3px 2px 30px #b7b7b7;
+}
+
+.card-img{
+    overflow: hidden;
+}
+
+.card-area img{
+    width: 100%;
+    transition: all .3s;
+}
+.card-area:hover img{
+    transform: scale(1.1);
+}
+.card-inner{}
+.card-inner a{
+    text-decoration: none;
+}
+.card-inner a h6{
+    line-height: 20px;
+    font-size: 15px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 39px;
+    margin-top: 10px;
+    transition: all linear.2s;
+    height: 40px;
+    overflow: hidden;
+}
+.card-area:hover a h6{
+    color: #007878;
+}
+
+.card-custom{
+    margin-top: 22px;
+}
+.card-custom .card-btn{
+    background-color: #009f9f;
+    padding: 10px 14px;
+    transition: all linear.3s;
+    border-radius: 5px;
+    color: #fff;
+}
+.card-custom .card-btn:hover{
+    text-decoration: none;
+    color: #fff;
+    background-color: #007878;
+}
+
+.card-custom a{
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.card-custom a span{
+    color: #fff;
+    font-weight: 500;
+}
+
+.card-custom span{
+    color: #333;
+    font-weight: 700;
+}
+
+
+/* accessories */
+.accessories{
+    background-color: #fff;
+    height: 660px;
+}
+
+.accessories_2{
+    background-color: #fff;
+    height: 660px;
+}
+
+.accessories_2 h4{    
+    font-size: 20px !important;
+}
+
+
+.accessories p span{
+
+}
+
+.accessories h6{}
+
+.accessories ul li{
+    line-height: 1.8;
+    font-size: 14px;
+    color: #333;
+}
+
+.accessories h4{
+    font-size: 24px;
+    line-height: initial;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.Price_icon{}
+
+.dicountPrice{}
+
+.accessories a{
+    color: #009f9f;
+}
+
+.accessories .buy_area{
+    margin-top: 30px;
+    margin-left: 0px;
+
+} 
+
+.accessories .buy_area .padding{
+    padding: 0px !important;
+}
+
+
+
+.accessories ul {
+    padding-left: 18px;
+}
+
+.accessories .quantityInput{
+    width: 62%;
+    text-align: center;
+    float: left;
+    height: 40px;
+    color: #2a2a2a;
+    line-height: 40px;
+    border: 1px solid #ccc;
+    border-right: 0;
+}
+
+.accessories .quantity{
+    float: left;
+    width: 80px;
+    margin-right: 10px;
+    user-select: none;
+    margin-left: 10px;
+}
+
+.accessories .quantity .quantity_increment{float: left;
+    text-align: center;
+    width: 30px;
+    cursor: pointer;
+    height: 20px;
+    vertical-align: middle;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 700;}
+.accessories .quantity .quantity_decrement{
+    float: left;
+    text-align: center;
+    width: 30px;
+    cursor: pointer;
+    height: 20px;
+    vertical-align: middle;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 700;
+} 
+
+button{
+    background-color: #009f9f;
+    padding: 10px 14px;
+    transition: all linear.3s;
+    border-radius: 5px;
+    color: #fff;
+    border: 0;
+}
+button:hover{
+    text-decoration: none;
+    color: #fff;
+    background-color: #007878;
+}
+
+.accessories .buy_area .icon{
+    height: 40px;
+    width: 40px;
+    border: 1px solid #333;
+    display: inline-block;
+    text-align: center;
+    line-height: 35px;
+}
+
+.accessories .buy_area .icon:hover {
+    background: #009f9f;
+    color: #fff;
+    border-color: #009f9f;
+    cursor: pointer;
+}
+
+/* socail icon */
+.share-links.social-links {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.share-links.social-links span.share {
+    margin-right: 10px;
+}
+
+.share-links.social-links .share-ico {
+    margin-right: 10px;
+}
+
+/* specification */
+
+.specification_Main{
+    padding-left: 28px;
+}
+
+.nav-tab-bars {
+    border-bottom: 1px solid #009f9f;
+    background: #009f9f;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.nav-tab-bars{
+    margin-bottom: 0px;
+}
+
+.nav-tab-bars li {
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 40px;
+    text-transform: uppercase;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.nav-tab-bars a{
+    color: #fff;
+}
+
+#specification .section-head {
+    padding: 10px;
+    background: #fff;
+    padding-left: 10px;    
+    font-size: 20px;
+    margin: 0px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.data-table {
+    width: 100%;
+}
+
+.data-table .name {
+    padding: 5px 20px 5px 6px;
+    width: 25%;
+    text-align: right;
+    line-height: 35px;
+    font-weight: 600;
+    border-right: 1px solid #009f9f;
+    background: #009f9f;
+    color: #fff;
+}
+
+.data-table .value {
+    padding: 10px 20px;
+    width: 75%;
+    color: #222;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.data-table .heading-row, .table>thead {
+    background: #d0d0d0;
+    padding: 8px 30px;
+    font-size: 15px;
+    color: #333;
+    font-weight: 600;
+    display: none;
+}
+
+.data-table tbody {
+    background: #fff;
+}
+
+
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.data-table tbody tr {
+    border-top: 1px solid #ddd;
+}
+
+
+/* description */
+.description, #write-review {
+    margin-top: 20px;
+    box-shadow: 0 0 50px rgb(200 200 200 / 40%);
+    padding: 20px;
+    background: #fff;
+}
+
+.description h2{
+    font-size: 25px;
+}
+
+.description h1{
+    font-size: 26px;
+    color: rgb(102, 102, 102);
+    text-align: justify;
+    font-weight: 700;
+}
+
+.description p{
+    line-height: 1.8;
+    font-size: 14px;
+    color: #333;
+}
+
+/* img  slider*/
+.carousel-inner img {
+    width: 100%
+}
+
+.carousel-item img {
+    width: 320px;
+    height: 240px !important
+}
+
+#myCarousel .carousel-indicators {
+    position: static;
+    margin-top: 0px
+}
+
+#myCarousel .carousel-indicators>li {
+    width: 100px
+}
+
+#myCarousel .carousel-indicators li img {
+    display: block;
+    opacity: 0.5
+}
+
+#myCarousel .carousel-indicators li.active img {
+    opacity: 1
+}
+
+#myCarousel .carousel-indicators li:hover img {
+    opacity: 0.75
+}

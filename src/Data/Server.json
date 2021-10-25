@@ -1,0 +1,41 @@
+[
+    {
+        "key": "hp-dl380-16gb-ram-server",
+        "img": "https://www.hpexclusive.com.bd/image/cache/catalog/Server/dl380-500x500-500x500.jpg",
+        "name": "HP ProLiant DL380 Generation 9 16GB Ram 2 x HP 1.2TB Server",
+        "model": "HP ProLiant DL380 Generation 9 (Gen9)",
+        "availability": "Pre-Order",
+        "price": "Pre-Order",
+        "processor": "Processor 1 x Intel® Xeon® E5-2620v4",
+        "memory": "16 GB DDR4 RDIMMs",
+        "hdd": "2 x HP 1.2TB SAS 10K 2.5in SC ENT HDD",
+        "description": "HP ProLiant DL380 1 x Intel® Xeon® E5-2620v4 (2.1GHz/8-core/20MB) Processor With Intel® C610 Series Chipset. It Conatains 16GB,  DDR4 RDIMMs, Up to 24 DIMM slots available for higher Memory capacity (Maximum 3TB LRDIMM),2 x HP 1.2TB  SAS 10K 2.5in SC ENT HDD and Integrated Matrox G200eH2 video standard with 16MB of Video RAM. In additional specification,HP Half-Height SATA DVD-RW Optical Drive ,2 x HP 800W Flex Slot Platinum Hot Plug Power Supply with Power LED, Standard: 8 SFF SAS/SATA HDD Bays; Upgradable up to 18 SFF SAS/SATA HDD Standard: 8 SFF SAS/SATA HDD Bays; Upgradable up to 18 SFF SAS/SATA HDD.OS Support Microsoft Windows Server, Canonical Ubuntu, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Oracle Solaris, Vmware, Citrix XenServer",
+        "warranty": "03 Years HPE Standard Warranty"
+    },
+    {
+        "key": "hp-polant-dl380-gen10-server",
+        "img": "https://www.ryanscomputers.com/storage/products/main/hp-proliant-dl380-gen-10-2u-rack-server-with-1x-11610793116.webp",
+        "name": "HP ProLiant DL380 Generation 10 Rack Server",
+        "model": "HP ProLiant DL380 Generation 10",
+        "availability": "Pre-Order",
+        "price": "Pre-Order",
+        "processor": "2XIntel Xeon-Silver 8-Core (4110) 2.1 GHz Processor",
+        "memory": "Intel C621 Series Chipset",
+        "hdd": "HPE 32GB (2x16GB) Dual Rank x4 DDR4 Ram",
+        "description": "HP ProLiant DL380 Generation 10 Rack Server With 2XIntel Xeon-Silver 8-Core (4110) 2.1 GHz Processor. Intel C621 Series Chipset. It has HPE 32GB (2x16GB) Dual Rank x4 DDR4-2666 CAS-19-19-19 Registered Smart Memory, 24 DIMM slots available for RDIMM, LRDIMM DDR4 Memory and supports up to 3TB.  4x HPE 600GB SAS Enterprise 10K SFF (2.5in) SC Firmware HDD. Integrated RAID Controller (HPE Smart Array P408i-a SR Gen10 (8 Internal Lanes) 12G SAS Modular Controller) with 2GB Flash Backed Write Cache (RAID 0,1,10,50,6,60).Integrated Matrox G200 video standard with 16MB of Video RAM.Redundant System Cooling Fan.HPE Embedded 1Gb Ethernet 4-port Adapter.Hot plug SFF SAS/SATA HDD bays; upgradable to 26 SFF SAS/SATA/SSD Drives. Security Bezekl kit with Lock, Power-on password, Serial interface control, Administrator's password, UEFI, iLO Advanced supports directory services integration, TPM 1.2, FIPS.",
+        "warranty": "03 Years HPE Standard Warranty"
+    },
+    {
+        "key": "hp-dl380-16mb-video-ram-server",
+        "img": "https://www.startech.com.bd/image/cache/catalog/server/hp-server/dl380/dl380-500x500.jpg",
+        "name": "HP ProLiant DL380 Generation 9 32GB Ram 4 x HP 1.2TB HDD 16MB Video RAM Server",
+        "model": "HP ProLiant DL380 Generation 9 (Gen9)",
+        "availability": "Pre-Order",
+        "price": "Pre-Order",
+        "processor": "Processor 2 x Intel® Xeon® E5-2620v4",
+        "memory": "32GB DDR4 RDIMMs",
+        "hdd": "4 x HP 1.2TB SAS 10K 2.5in SC ENT HDD",
+        "description": "HP ProLiant DL380 2 x Intel® Xeon® E5-2620v4 (2.1GHz/8-core/20MB) Processor 32GB,  DDR4 RDIMMs, Up to 24 DIMM slots available for higher Memory capacity (Maximum 3TB LRDIMM) and Intel® C610 Series Chipset. It contains  4 x HP 1.2TB  SAS 10K 2.5in SC ENT HDD and Integrated Matrox G200eH2 video standard with 16MB of Video RAM. It has also 2 x HP 800W Flex Slot Platinum Hot Plug Power Supply with Power LED and Hot-plug fans, 4 with single Processor and 6 with dual processor (High Performance fans optional) ,2U Rack form factor, ships with ball bearing rails and cable management system and OS Support Microsoft Windows Server, Canonical Ubuntu, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Oracle Solaris, Vmware, Citrix XenServer.",
+        "warranty": "03 (three) Years HPE Standard Warranty"
+    }
+]

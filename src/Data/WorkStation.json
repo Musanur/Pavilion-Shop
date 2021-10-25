@@ -1,0 +1,41 @@
+[
+    {
+        "key": "hp-z2-g4-xeon-e-2126g-workstation",
+        "img": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z2-g4/z2-g4-500x500.jpg",
+        "name": "HP Z2 G4 SFF Intel Xeon E-2126G VPro Workstation",
+        "model": "HP Z2 G4",
+        "availability": "Pre-Order",
+        "price": "Pre-Order",
+        "processor": "Intel Xeon E-2126G vPro (3.3 GHz up to 4.5 GHz, 12 MB cache, 6 cores)",
+        "memory": "8GB DDR4-2666 nECC RAM",
+        "hardDisk": "1TB 7200 RPM SATA HDD",
+        "graphics": "AMD Radeon 4GB Graphics",
+        "description":"HP Z2 G4 SFF Tower Workstation with Intel Xeon E-2126G vPro (3.3 GHz up to 4.5 GHz, 12 MB cache, 6 cores) and 8GB DDR4-2666 nECC RAM is an American stylish brand that also contains 1TB 7200 RPM SATA HDD Storage to ensure greater work-ability. In addition, it has AMD Radeon Pro WX3100 4GB Graphics,Z22n IPS FHD 21.5 inch Monitor, Free Dos Operating System and Super Multi DVD-RW. This multi-function extreme enterprise compatible device comes with 3 years of warranty."
+    },
+    {
+        "key": "hp-z4-g4-2123-worksation",
+        "img": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z4-g4/z4-g4-500x500.jpg",
+        "name": "HP Z4 G4 Tower Intel Xeon 2123 Workstation",
+        "model": "HP Z4 G4",
+        "availability": " Pre-Order",
+        "price": " Pre-Order",
+        "processor": "Intel Xeon 2123 CPU, 3.6 GHz to 3.9 GHz,4 Cores, 8 threads",
+        "memory": "16GB DDR4 RAM",
+        "hardDisk": "256GB Z Turbo SSD+2x2TB HDD",
+        "graphics": "NVIDIA Quadro P2000 5GB",
+        "description": "HP Z4 G4 Tower Workstation with Intel Intel Xeon 2123 CPU, 3.6 GHz up to turbo 3.9 GHz, 4 Cores, 8 threads, 8.25MB processor and 16GB DDR4 RAM is an American stylish brand that also contains 256GB Z Turbo SSD+2x2TB 7200 RPM SATA HDD storage to ensure greater workability. In addition, it has NVIDIA Quadro P2000 5GB, Z24nf IPS FHD 24 Inc Monitor monitor and Super Multi DVD-RW. This multi-function extreme enterprise compatible device comes with 3 years of warranty. Find supreme configured workstation at best price in Rangpur, Chittagong, Dhaka & Sylhet. Now you can order online and have the delivery at any location inside Bangladesh."
+    },
+    {
+        "key": "hp-z6-g4-xeon-workstation",
+        "img": "https://unixnetworkbd.com/image/cache/catalog/08.2020/HP-Z4-G4-Tower-Intel-Xeon-2145-CPU-4HJ20AV-240x240.png",
+        "name": "HP Z6 G4 Tower Intel Xeon 4114 Workstation",
+        "model": "HP Z6 G4",
+        "availability": "Pre-Order",
+        "price": "Pre-Order",
+        "processor": "Intel Xeon 4114 CPU (2.2 GHz up to 3 GHz, 13.75 MB cache, 10 cores)",
+        "memory": "32GB DDR4 ECC RAM",
+        "hardDisk": "256GB PCIe G2+2x4TB HDD",
+        "graphics": "NVIDIA 8GB GDDR5 graphics",
+        "description": "HP Z6 G4 Tower Workstation with Intel Xeon 4116 CPU (2.1GHz up to turbo 3.0GHz, 16.5 MB, Cache, 12 core) and 32GB DDR4 ECC RAM is an American stylish brand that also contains 256GB PCIe Z Turbo Drive G2+2x4TB 7200 RPM SATA HDD storage to ensure greater work ability. In addition, it has NVIDIA Quadro P4000 8GB GDDR5 graphics,HP Z24nf  IPS 24 Inc Monitor, Win 10 Pro 64-bit Operating System and Super Multi DVD-RW. This multifunction extreme enterprise compatible device comes with 3 years of warranty. Find supreme configured workstation at best price in Rangpur, Chittagong, Dhaka & Sylhet. Now you can order online and have the delivery at any location inside Bangladesh."
+    }
+]

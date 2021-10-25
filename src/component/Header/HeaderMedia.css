@@ -1,0 +1,233 @@
+/* respnosive min-width px */
+@media (min-width: 336px) {
+    
+    .header_top{
+        padding: 20px 10px;
+        padding-right: 55px;
+    }
+
+    .header_bg {
+        height: 70px;
+        position: fixed;
+        width: 100%;
+    }
+
+    .header_logo{
+        display: none !important;
+    }
+    
+    .header_search{
+        margin-left: 50px;
+    }
+
+    .header_searchText {
+        display: none !important;  
+    }
+
+   .header_searchIcon{
+    display: block !important;
+    height: 30px !important;
+    width: 38px !important;
+    padding: 2px;
+    color: aliceblue;  
+    }
+    
+    .header_searchInput{
+        height: 30px;
+        padding: 10px;
+        border: none;
+        width: 100%;
+    }
+
+    .header_option{
+        margin-left: 11px;
+        margin-right: 0px;
+        padding: 3px 12px;
+    }
+
+    .header_optionTwo{
+        display: none !important;
+    }
+
+    .card-area{
+        height: 485px !important;
+    }
+    
+    .bg-color-3 {
+    margin-top: 58px;
+    }
+
+    .accessories h4 {
+    font-size: 19px;
+    line-height: initial;
+    font-weight: 700;
+    margin-top: 20px;
+    }
+
+    .accessories {
+    height: 825px;
+    padding: 10px !important;
+}
+
+}
+
+@media (min-width: 400px) { 
+   .card-area {
+    height: 590px !important;
+}
+}
+
+@media (min-width: 500px) { 
+   .bg-color-3 {
+    margin-top: 73px;
+    }
+}
+
+/* respnosive min-width px */
+@media (min-width: 501px) {
+.card-area {
+    height: 657px !important;
+}
+
+.accessories h4 {
+    font-size: 20px;
+}
+}
+
+/* respnosive min-width px */
+@media (min-width: 600px) { 
+    .card-area {
+    height: 620px !important;
+}
+
+.accessories h4{
+    font-size: 24px;
+    line-height: initial;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.accessories {
+    height: 825px;
+    padding: 40px !important;
+}
+
+.description h1 {
+    font-size: 20px;
+}
+
+}
+
+
+/* respnosive min-width px */
+@media (min-width: 750px) { 
+     #header_cardArea{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .card-area {
+    height: 371px !important;
+    }
+ }
+/* respnosive min-width px */
+@media (min-width: 800px) { 
+    
+    .card-area {
+    height: 456px !important;
+}
+
+ }
+
+/* respnosive min-width px */
+@media (min-width: 992px) {
+
+    .header_top{
+        padding: 20px 0px;
+    }
+
+    .header_bg {
+        height: 100px;
+        position: inherit;
+        width: 100%;
+    }
+
+    .header_logo{
+        display: block !important;
+    }
+
+    .header_search{
+        margin-left: 0px;
+    }
+
+    .header_searchText{
+        display: flex !important;
+    }
+    .header_searchIcon{
+        display: none !important;
+    }
+      .header_searchInput{
+        height: 48px;
+        padding: 10px;
+        border: none;
+        width: 100%;
+    }
+
+    .header_option{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px 20px;
+    color: #fff;
+    }
+
+     .header_optionTwo{
+        display: block !important;
+    }
+
+    .header_mainNav{
+        display: block !important;
+    }
+    .header_offCanvas{
+        display: none !important;
+    }
+    .card-area {
+    height: 576px !important;
+    }
+    .bg-color-3 {
+    margin-top: 0px;
+    }
+
+    .accessories {
+    background-color: #fff;
+    height: 660px;
+        background-color: #fff;
+        height: 660px;
+    }
+
+    
+    
+}
+
+/* respnosive min-width px */
+@media (min-width: 1000px) { 
+ #header_cardArea{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .card-area {
+    height: 390px !important;
+    }
+
+}
+
+/* respnosive min-width px */
+@media (min-width: 1200px) {         
+ 
+}
+
+@media (min-width:1400px){
+    .card-area {
+    height: 436px !important;
+}
+}

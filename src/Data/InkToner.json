@@ -1,0 +1,59 @@
+[
+    {
+        "key": "hp-107a-laser-toner-cartridge",
+        "img": "https://www.ryanscomputers.com/storage/products/main/hp-107a-black-original-laser-toner-11580620275.webp",
+        "name": "HP 107A Black Original Laser Toner Cartridge",
+        "model": "HP 107A",
+        "availability": "Out Of Stock",
+        "price": "Out Of Stock",
+        "Compatible": " HP Laser 107, MFP 135, MFP 137",
+        "Technology": "Laser",
+        "Color": "Black",
+        "Yield": "1000 pages",
+        "description": "The 107A Original HP Laser toner cartridges deliver consistently impressive prints. Get the quality an industry leader offers for your office at a surprisingly affordable price.The HP Laser printer and toner cartridges together deliver a system for an affordable cost. This toner has 1,000 pages yield (black and white) capacity, 20 to 80% RH Operating humidity range, 10 to 90% RH Non-Operating Humidity Range, 10 to 30°C Operating temperature range with -20 to 40°C Storage temperature range. This toner provides Print professional-quality documents, By using HP toner that produces sharp black text and graphics. Achieve HP high-quality prints and consistent results from page to page and cartridge to cartridge. This toner is compatible with HP Laser 100 Printer series, HP Laser MFP 130 Printer series."
+    },
+    {
+        "key": "hp-130a-black-laserjet-toner-cartridge",
+        "img": "https://www.startech.com.bd/image/cache/catalog/office-equipment/cartridge/130a/130a-black-500x500.jpg",
+        "name": "HP 130A Black Original LaserJet Toner Cartridge",
+        "model": "HP 130A",
+        "availability": "In Stock",
+        "price": "4,800",
+        "Compatible": " HP Laser 107, MFP 135, MFP 137",
+        "Technology": " Laser",
+        "Color": "Black",
+        "Yield": "1000 pages",
+        "description": "Original HP Laser Jet Toner Cartridge produce an average of 71% more usable pages than HP cartridges.Cartridge yield (approx.): 1,300 pages 130A toner is designed to work with your HP printer for high quality, reliable results every print."
+    },
+    {
+        "key": "hp-130a-toner-cartridge",
+        "img": "https://www.ryanscomputers.com/storage/products/main/hp-130a-cyan-original-laserjet-toner-11546613612.webp",
+        "name": "HP 130A Cyan Original LaserJet Toner Cartridge",
+        "model": "HP 130A",
+        "availability": " In Stock",
+        "price": "4,900৳",
+        "Compatible": "1,000 pages",
+        "Technology": "Laser",
+        "Color": "Cyan",
+        "Yield": "",
+        "description": "HP 130A Cyan Original LaserJet Toner Cartridge Color(s) of printing supplies Cyan Print technology Laser Page yield (colour) 1,000 pages Page yield footnote Approximate average composite cyan, yellow, magenta yield based on ISO/IEC 19798. Actual yield varies considerably based on content of printed pages and other factors."
+    },
+    {
+        "key": "hp-130a-magenta-toner-cartridge",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38rYnXmg7j3yYSSx0PZy91nVROEB6rLx4h6StUvdnoEZqjzofnrim1g7V2WkptRDRxoc&usqp=CAU",
+        "name": "HP 130A Magenta Original LaserJet Toner Cartridge",
+        "model": "HP 130A",
+        "availability": "In Stock",
+        "price": "4,900",
+        "Compatible": "",
+        "Technology": " Laser",
+        "Color": "Magenta",
+        "supportedPrinter": "HP LaserJet Pro MFP M130fn (G3Q59A#BGJ) ; HP LaserJet Pro MFP M130fw (G3Q60A#BGJ) ; HP LaserJet Pro M102w (G3Q35A#BGJ)",
+        "printerColor": "black",
+        "Yield": "1,600 pages",  
+        "SupportedPrinter":"Supported Printer",
+        "PrintingColor": "Printing color",
+        "PageYieldDescription": "Page yield Description",
+        "description": "Color(s) of printing supplies Magenta Print technology Laser Page yield (colour) 1,000 pages Page yield footnote Approximate average composite cyan, yellow, magenta yield based on ISO/IEC 19798. Actual yield varies considerably based on content of printed pages and other factors"
+    }
+]
