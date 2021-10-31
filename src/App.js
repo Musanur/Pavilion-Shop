@@ -34,7 +34,7 @@ function App() {
     <div className="App">
       <Switch>
 
-          <Route path="/laptop">
+          <Route path="/laptop" component={Laptop}>
             <Header/>
             <Laptop/>
             <Footer/>
