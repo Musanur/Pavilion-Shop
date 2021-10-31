@@ -5,13 +5,14 @@ import logo from "../../img/logo.png";
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import LoginIcon from '@mui/icons-material/Login';
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
         <div className="header">
           <div className="header_bg">
             <div className="header_top container">
-                <a href="/"><img className="header_logo" src={logo} alt="" /></a>
+                <NavLink to="/"><img className="header_logo" src={logo} alt="" /></NavLink>
                 <div className="header_search">
                     <input className="header_searchInput" type="text" />
                     <div className="header_searchText">
@@ -44,16 +45,16 @@ const Header = () => {
           <div className="header_mainNav">
                 <div className="header_main">
                     <div className="container">
-                        <a href="/laptop">LAPTOP</a>
-                        <a href="/desktop">DESKTOP</a>
-                        <a href="/all-in-one">ALL IN ONE</a>
-                        <a href="/monitor">MONITOR</a>
-                        <a href="/server">SERVER</a>
-                        <a href="/workstatiOn">WORKSTATION</a>
-                        <a href="/printer">PRINTER</a>
-                        <a href="/ink-toner">INK TONER</a>
-                        <a href="/photocopier">PHOTOCOPIER</a>
-                        <a href="/accessories">ACCESSORIES</a>
+                        <NavLink to="/laptop">LAPTOP</NavLink>
+                        <NavLink to="/desktop">DESKTOP</NavLink>
+                        <NavLink to="/all-in-one">ALL IN ONE</NavLink>
+                        <NavLink to="/monitor">MONITOR</NavLink>
+                        <NavLink to="/server">SERVER</NavLink>
+                        <NavLink to="/workstatiOn">WORKSTATION</NavLink>
+                        <NavLink to="/printer">PRINTER</NavLink>
+                        <NavLink to="/ink-toner">INK TONER</NavLink>
+                        <NavLink to="/photocopier">PHOTOCOPIER</NavLink>
+                        <NavLink to="/accessories">ACCESSORIES</NavLink>
                     </div>
                 </div>
           </div>
@@ -68,54 +69,54 @@ const Header = () => {
                         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
                             aria-labelledby="offcanvasNavbarLabel">
                             <div class="offcanvas-header">
-                                <a href="/public/index.html">
+                                <NavLink to="/">
                                 <img src={logo} class="offcanvas-title" id="offcanvasNavbarLabel" alt="" /> 
-                                </a>
+                                </NavLink>
                                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
                                     aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body">
                                 <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page"
-                                            href="/laptop">LAPTOP</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page"
+                                            to="/laptop">LAPTOP</NavLink>
                                     </li>
             
                                     <li class="nav-item my-2 mx-1 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page"
-                                            href="/desktop">DESKTOP</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page"
+                                            to="/desktop">DESKTOP</NavLink>
                                     </li>
             
                                     <li class="nav-item my-2 mx-1 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/all-in-one">ALL IN ONE</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/all-in-one">ALL IN ONE</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/monitor">MONITOR</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/monitor">MONITOR</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/server">SERVER</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/server">SERVER</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/workstation">WORKSTATION</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/workstation">WORKSTATION</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/printer">PRINTERS</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/printer">PRINTERS</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/ink-toner">INK TONER</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/ink-toner">INK TONER</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/Photocopier">PHOTOCOPIER</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/Photocopier">PHOTOCOPIER</NavLink>
                                     </li>
             
                                     <li class="nav-item m-2 main-nav">
-                                        <a class="nav-link active text-white" aria-current="page" href="/Accessories">ACCESSORIES</a>
+                                        <NavLink class="nav-link active text-white" aria-current="page" to="/Accessories">ACCESSORIES</NavLink>
                                     </li>
                                 </ul>
                             </div>
