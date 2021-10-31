@@ -34,44 +34,9 @@ function App() {
     <div className="App">
       <Switch>
 
-          <Route path="/accessories">
+          <Route path="/laptop">
             <Header/>
-            <Accessories/>
-            <Footer/>
-           </Route>
-          <Route path="/photocopier">
-            <Header/>
-            <Photocopier/>
-            <Footer/>
-           </Route>
-          <Route path="/ink-toner">
-            <Header/>
-            <InkToner/>
-            <Footer/>
-           </Route>
-          <Route path="/printer">
-            <Header/>
-            <Printer/>
-            <Footer/>
-           </Route>
-          <Route path="/workstatiOn">
-            <Header/>
-            <Workstation/>
-            <Footer/>
-           </Route>
-          <Route path="/server">
-            <Header/>
-            <Server/>
-            <Footer/>
-           </Route>
-          <Route path="/monitor">
-            <Header/>
-            <Monitor />
-            <Footer/>
-            </Route>
-          <Route path="/all-in-one">
-            <Header/>
-            <AllInOne/>
+            <Laptop/>
             <Footer/>
           </Route>
           <Route path="/desktop">
@@ -79,11 +44,46 @@ function App() {
             <Desktop/>
             <Footer/>
           </Route>
-          <Route path="/laptop">
+          <Route path="/all-in-one">
             <Header/>
-            <Laptop/>
+            <AllInOne/>
             <Footer/>
           </Route>
+          <Route path="/monitor">
+            <Header/>
+            <Monitor />
+            <Footer/>
+            </Route>
+          <Route path="/server">
+            <Header/>
+            <Server/>
+            <Footer/>
+           </Route>
+          <Route path="/workstatiOn">
+            <Header/>
+            <Workstation/>
+            <Footer/>
+           </Route>
+          <Route path="/printer">
+            <Header/>
+            <Printer/>
+            <Footer/>
+           </Route>
+          <Route path="/ink-toner">
+            <Header/>
+            <InkToner/>
+            <Footer/>
+           </Route>
+          <Route path="/photocopier">
+            <Header/>
+            <Photocopier/>
+            <Footer/>
+           </Route>
+          <Route path="/accessories">
+            <Header/>
+            <Accessories/>
+            <Footer/>
+           </Route>
           <Route exact path="/">
             <Header />
             <Home /> 
