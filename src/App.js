@@ -34,10 +34,7 @@ function App() {
     <div className="App">
       <Switch>
 
-          <Route path="/laptop" component={Laptop}>
-            <Header/>
-            <Laptop/>
-            <Footer/>
+          <Route exact path="/laptop" component={Laptop}>
           </Route>
           <Route path="/desktop">
             <Header/>
