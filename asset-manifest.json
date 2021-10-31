@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Pavilion-Shop/static/css/main.31851fe8.chunk.css",
-    "main.js": "/Pavilion-Shop/static/js/main.72e860c8.chunk.js",
-    "main.js.map": "/Pavilion-Shop/static/js/main.72e860c8.chunk.js.map",
-    "runtime-main.js": "/Pavilion-Shop/static/js/runtime-main.38c9659d.js",
-    "runtime-main.js.map": "/Pavilion-Shop/static/js/runtime-main.38c9659d.js.map",
-    "static/js/2.e2e25953.chunk.js": "/Pavilion-Shop/static/js/2.e2e25953.chunk.js",
-    "static/js/2.e2e25953.chunk.js.map": "/Pavilion-Shop/static/js/2.e2e25953.chunk.js.map",
-    "static/js/3.72bff107.chunk.js": "/Pavilion-Shop/static/js/3.72bff107.chunk.js",
-    "static/js/3.72bff107.chunk.js.map": "/Pavilion-Shop/static/js/3.72bff107.chunk.js.map",
-    "index.html": "/Pavilion-Shop/index.html",
-    "static/css/main.31851fe8.chunk.css.map": "/Pavilion-Shop/static/css/main.31851fe8.chunk.css.map",
-    "static/js/2.e2e25953.chunk.js.LICENSE.txt": "/Pavilion-Shop/static/js/2.e2e25953.chunk.js.LICENSE.txt",
-    "static/media/2.0a62ed59.png": "/Pavilion-Shop/static/media/2.0a62ed59.png",
-    "static/media/Header.css": "/Pavilion-Shop/static/media/Multiply.b761fa6d.svg",
-    "static/media/hp-11th-gen-banner .16b3aea9.png": "/Pavilion-Shop/static/media/hp-11th-gen-banner .16b3aea9.png"
+    "main.css": "/pavilion-shop/static/css/main.29fedf2b.chunk.css",
+    "main.js": "/pavilion-shop/static/js/main.3e7b3eb5.chunk.js",
+    "main.js.map": "/pavilion-shop/static/js/main.3e7b3eb5.chunk.js.map",
+    "runtime-main.js": "/pavilion-shop/static/js/runtime-main.771c0c86.js",
+    "runtime-main.js.map": "/pavilion-shop/static/js/runtime-main.771c0c86.js.map",
+    "static/js/2.f52ab31c.chunk.js": "/pavilion-shop/static/js/2.f52ab31c.chunk.js",
+    "static/js/2.f52ab31c.chunk.js.map": "/pavilion-shop/static/js/2.f52ab31c.chunk.js.map",
+    "static/js/3.72bff107.chunk.js": "/pavilion-shop/static/js/3.72bff107.chunk.js",
+    "static/js/3.72bff107.chunk.js.map": "/pavilion-shop/static/js/3.72bff107.chunk.js.map",
+    "index.html": "/pavilion-shop/index.html",
+    "static/css/main.29fedf2b.chunk.css.map": "/pavilion-shop/static/css/main.29fedf2b.chunk.css.map",
+    "static/js/2.f52ab31c.chunk.js.LICENSE.txt": "/pavilion-shop/static/js/2.f52ab31c.chunk.js.LICENSE.txt",
+    "static/media/2.0a62ed59.png": "/pavilion-shop/static/media/2.0a62ed59.png",
+    "static/media/Header.css": "/pavilion-shop/static/media/Multiply.b761fa6d.svg",
+    "static/media/hp-11th-gen-banner .16b3aea9.png": "/pavilion-shop/static/media/hp-11th-gen-banner .16b3aea9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.38c9659d.js",
-    "static/js/2.e2e25953.chunk.js",
-    "static/css/main.31851fe8.chunk.css",
-    "static/js/main.72e860c8.chunk.js"
+    "static/js/runtime-main.771c0c86.js",
+    "static/js/2.f52ab31c.chunk.js",
+    "static/css/main.29fedf2b.chunk.css",
+    "static/js/main.3e7b3eb5.chunk.js"
   ]
 }
