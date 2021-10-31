@@ -34,56 +34,6 @@ function App() {
     <div className="App">
       <Switch>
 
-          <Route path="/accessories/:productKey">
-            <Header/>
-            <AccessoriesDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/photocopier/:productKey">
-            <Header/>
-            <PhotocopierDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/ink-toner/:productKey">
-            <Header/>
-            <InkTonerDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/printer/:productKey">
-            <Header/>
-            <PrinterDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/workstation/:productKey">
-            <Header/>
-            <WorkstationDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/server/:productKey">
-            <Header/>
-            <ServerDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/monitor/:productKey">
-            <Header/>
-            <MonitorDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/all-in-one/:productKey">
-            <Header/>
-            <AllInOneDetails/>
-            <Footer/>
-          </Route>
-          <Route path="/desktop/:productKey">
-            <Header/>
-            <DesktopDetails/>
-            <Footer/>
-           </Route>
-          <Route path="/product/:productKey">
-            <Header/>
-            <LaptopDetails/>
-            <Footer/>
-           </Route>
           <Route path="/accessories">
             <Header/>
             <Accessories/>
@@ -134,9 +84,60 @@ function App() {
             <Laptop/>
             <Footer/>
           </Route>
-          <Route path="/">
+          <Route exact path="/">
             <Header />
             <Home /> 
+            <Footer/>
+          </Route>
+
+          <Route path="/product/:productKey">
+              <Header/>
+              <LaptopDetails/>
+              <Footer/>
+          </Route>
+          <Route path="/desktop/:productKey">
+            <Header/>
+            <DesktopDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/all-in-one/:productKey">
+            <Header/>
+            <AllInOneDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/monitor/:productKey">
+            <Header/>
+            <MonitorDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/server/:productKey">
+            <Header/>
+            <ServerDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/workstation/:productKey">
+            <Header/>
+            <WorkstationDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/printer/:productKey">
+            <Header/>
+            <PrinterDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/ink-toner/:productKey">
+            <Header/>
+            <InkTonerDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/photocopier/:productKey">
+            <Header/>
+            <PhotocopierDetails/>
+            <Footer/>
+          </Route>
+          <Route path="/accessories/:productKey">
+            <Header/>
+            <AccessoriesDetails/>
             <Footer/>
           </Route>
         </Switch>
