@@ -32,52 +32,52 @@ function App() {
     <div className="App">
       <Switch>
 
-          <Route  path="/laptop">
+          <Route exact path="/laptop">
             <Header/>
             <Laptop/>
             <Footer/>
           </Route>
-          <Route  path="/desktop">
+          <Route exact path="/desktop">
             <Header/>
             <Desktop/>
             <Footer/>
           </Route>
-          <Route  path="/all-in-one">
+          <Route exact path="/all-in-one">
             <Header/>
             <AllInOne/>
             <Footer/>
           </Route>
-          <Route  path="/monitor">
+          <Route exact path="/monitor">
             <Header/>
             <Monitor />
             <Footer/>
             </Route>
-          <Route  path="/server">
+          <Route exact path="/server">
             <Header/>
             <Server/>
             <Footer/>
            </Route>
-          <Route  path="/workstatiOn">
+          <Route exact path="/workstatiOn">
             <Header/>
             <Workstation/>
             <Footer/>
            </Route>
-          <Route  path="/printer">
+          <Route exact path="/printer">
             <Header/>
             <Printer/>
             <Footer/>
            </Route>
-          <Route  path="/ink-toner">
+          <Route exact path="/ink-toner">
             <Header/>
             <InkToner/>
             <Footer/>
            </Route>
-          <Route  path="/photocopier">
+          <Route exact path="/photocopier">
             <Header/>
             <Photocopier/>
             <Footer/>
            </Route>
-          <Route  path="/accessories">
+          <Route exact path="/accessories">
             <Header/>
             <Accessories/>
             <Footer/>

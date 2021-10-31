@@ -4,7 +4,7 @@ import desktopData from '../../Data/Desktop.json'
 import LaptopCart from '../Laptop/LaptopCart'
 import './Home.css'
 import banner1 from '../../img/hp-11th-gen-banner .png'
-import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import banner2 from '../../img/2.png'
 import DesktopCard from '../Desktop/DesktopCard';
 const Home = () => {
@@ -30,20 +30,20 @@ const Home = () => {
                         <div id="collage-1" className="collage row">
                             <div className="col-md-12 col-xl-8 banner-slider p-3">
                                 <div className="item item banner-image mySlides">
-                                    <NavLink to="/laptop"><img src={banner1} alt="envy x360"
-                                            className="img-responsive w-100" /></NavLink>
+                                    <Link to="/laptop"><img src={banner1} alt="envy x360"
+                                            className="img-responsive w-100" /></Link>
                                 </div>
                             </div>
                             <div className="col-md-12 col-xl-4 m-col-top-10 right-side-banner p-3">
                                 <div className="row">
                                     <div className="col-6 col-xl-12">
                                         <div className="banner-first banner-image">
-                                            <NavLink to="/laptop"><img src={banner2} className="img-responsive w-100 p-1" alt=""/></NavLink>
+                                            <Link to="/laptop"><img src={banner2} className="img-responsive w-100 p-1" alt=""/></Link>
                                         </div>
                                     </div>
                                     <div className="col-6 col-xl-12">
                                         <div className="banner-second banner-image">
-                                            <NavLink to="/laptop"><img src={banner2} className="img-responsive w-100 p-1" alt=""/></NavLink>
+                                            <Link to="/laptop"><img src={banner2} className="img-responsive w-100 p-1" alt=""/></Link>
                                         </div>
                                     </div>
                                 </div>
