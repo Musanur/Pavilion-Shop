@@ -1,6 +1,5 @@
 {
   "name": "pavilion-shop",
-  "homepage": "https://musanur.github.io/Pavilion-Shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
