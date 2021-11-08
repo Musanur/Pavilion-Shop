@@ -14,7 +14,7 @@ const DesktopCard = (props) => {
                             <img src={img} alt="" />
                         </div>
                         <div className="card-inner">
-                            <a href="/">
+                            <a href="">
                                 <h6 className="text-center">{name}</h6>
                             </a>
                             <div className="card-custom d-flex justify-content-between align-items-center">
